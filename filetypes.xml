@@ -2,6 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="snp" type="HTML" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
