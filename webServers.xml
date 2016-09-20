@@ -1,0 +1,33 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c3a5869f-4649-4092-a056-15932d6b42a2" name="tsum work" url="http://tsum.loc">
+        <fileTransfer host="25.49.140.180" port="22" rootFolder="/home/pinchuk/www/tsum.loc/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d01c13e6-b6a0-4da0-8d8f-c09c81af5ce0" name="tsum-new.loc" url="http://tsum-new.loc">
+        <fileTransfer host="25.75.78.57" port="22" rootFolder="/adv/vhosts/tsum-new.loc/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="55d64c90-c290-4157-8609-0734cb600630" name="bitrix.loc" url="http://bitrix.loc">
+        <fileTransfer host="192.168.2.102" port="22" rootFolder="/home/bitrix/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABkBjDpD5gLuJVf7OfpLVe8iMF9g9FPDr9hMAFP6ok9Bw9dnwtL1xvS79W1UVtvQes+gOQxIEtQuAQBauWZQjiGERAWYlz1nRZ0ACEmtzWJUj+8KbzmfzKZVIJDA1dQ3NhclxtHzfXcPNX3AB3VJiAuY/QQm8KBsZJiLLSBRpjLeowGDa99AvYEEXYkU+yTN1zR7v8dN8MJap4+znDNMfGoCylwbzmm11Ym4A7xPgo5KRGySCAbmUD+MjBxJJhn8fdoLxfZMo2GLsbD6Op0rt3IaTZeerJduXsPGTCVLEk0A56HS6TF3Xc9DQiTnNx4DVscX6wFuATRjg2HSb0DkHrzmu7E1IO1w+k9glrA5FmEn9bTredS9PvIEhp9mjpqf4kFyUoDHV8TiYTLotxYbyTAkAi7ZrOG7Q0LrOWFjfNcl+XtAsboPJ/wix/fEF/IKGUCKkHhRELLC8rFZM3jCf06siL0B4+jL2KgCViuYv//ea3FcYuyiffa24D/qnj5nr6ezOBgfQ/JkzkYu2/ArCKlElm7GrtddK5k7ig0EH/5q4T</data>
+  </component>
+</application>

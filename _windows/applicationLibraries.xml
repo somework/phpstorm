@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="es5-shims" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_yastatic.net_es5-shims_0.0.2_es5-shims.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_yastatic.net_es5-shims_0.0.2_es5-shims.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="share" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_yastatic.net_share2_share.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_yastatic.net_share2_share.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
