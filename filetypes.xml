@@ -4,14 +4,15 @@
       <mapping ext="snp" type="HTML" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="hbt" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="loc" type="nginx file type" />
     </extensionMap>
