@@ -28,9 +28,17 @@
       <webServer id="d6c57dce-ef48-4241-9761-fc9011c8db66" name="drupal-vagrant" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f2ffd333-43f2-4c4b-8578-e837f429e1e8" name="tsum.loc" url="http://tsum.loc/">
+        <fileTransfer host="25.49.140.180" port="22" rootFolder="/home/pinchuk/www/tsum.loc/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABkEWwC9nS/iA82DZhTbD54wR0FE6S3PyoiHhJS5LuCyPppB1/FmbgKQX1xLqieqWV//16zFb6KtJk2u8hqisVDUbP1ioJdmQleTR6ED8Q44q3BvsQRFKOZu7h7KFeLRcZiIU+2a23xDcq+fGEy5CVaale1to0wZLDHcygGYTLCcsBp6wcEJdvy5/QD+OBw4hKkYGiaEcWGPrrmvznBCpPcuvRl+CbjNug03+jQosQ/ko/G9mW8BJuDNFjeNjxqYeeoW58c2LKR4h9pLIEcL5gMzsOYT4lu7eLPGJqqrkdzUVgzvOMw4E7OZAdvYDxzT1jeMwb1XT6OXdtxGqncUuP8gOo5z6WkyhkO+/5yy+hcXuY/VdFIUMlR4PR8N5eJXLPjqlWr0VnLvtKMFe/l62Df6Txl89XqtaDti4adDTKR6kVzEnGnepXWTrXnPMgjLrZtssVUyd3D4q2O4dCV/Cj5vB8lUsjqSWK1esfqJByh+OAMntZawyUf/QKG3HmvQpBfWol0sh2fQoTQfmGWg+mJ7Vb4tSg456zpx0qol4JMY9i</data>
+    <data>AAABwD/2izmCGmiRauIW6GmqDElNI5vMYpiviF1enCumxbS3QDHUS9C3wUzKbY+X0S59yGMErM9byAQc5NY5QFTL5DXmZEFpNJ2J460PtrTjt2wWddgvhqx9oYHtmtCw49lmiOCcN8iGMwZASxon+6VmqgG5EK+js4kml0/5K+CuIE2eDde//qcPy9aEetxsBkJlCN/zN+WZBzjQFuWszREvtyIQHnTOYmwCP1mUtATsOhxyhBdk3VMxRMDYrcCDhehCKnzpVNW2CaVwduPlAtaDAN31yv4AwlLLW+OXqPCBhW5xA054rRhCrrN1fn09ae7vfVn538ID5gwSmaf3V1229QAblS9aScuNmu40Lqc6gn/1mFeIs3yLFRoh5AzVewc6fV8c2EGXjBto3lkB8wpMXf1xsLaMZt5Z2qxFI7Q18+kc3uHfgoHiZ2kNvB2YV9fxu6w73M5JM0i/9N2USd+Uagt9+N/TeeKShDOdRtQeibluyVGmYdb2ZtbHnFa5LL56njKNPaRFKAfE/26GjHVBdwalY+fcOoDBv7Yt3BMDQNOxU51dN1WDi6IAqru/Am5BQHizzdPcvO3GqLn41S0ITGSBe9zh9vWw8gdJWaFfTicS</data>
   </component>
 </application>
