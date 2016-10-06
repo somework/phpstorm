@@ -36,9 +36,17 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5bb64ca7-7cce-4c9a-b110-7043964d0c3a" name="izvestia-drupal" url="http://25.49.140.180">
+        <fileTransfer host="25.49.140.180" port="22" rootFolder="/home/pinchuk/www/izvestia/vagrant/drupal" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABwBBkuq8gP4rzw20jwbbg75uQxsmHn8eu+qyqMw+w1mL1LlvUgPhJaKMpOgBvhn1BtX6daojdrTa/9CxwmMWZeconc2yROFlWaBwLzDfR9BJeuHiXA7UHSm7XS7o8fwjp2DQgo6upwT7P7J3C862l70Ej7QeV3ndM9wHTotPh19jXcp3496s3H50ky4WfLNPnFO9679d0/+ANY5COGfyULJwkshO5ojW1o4Bm/lS9wpVPByFTcFmAY3+FKQpgOkMXtxVkB5Tlig8z3oSi0zvcQMl7WZNCHuuQIuFyrZo7NuFmyhBom/Cz4EjevgR74O5JGGuHzsSWGbiEvjFh2qLWOHeztXcozdMSeBZoR7eyBEOkVacKc5ufAa4h3FDNhW1t+t7cptSUGWqgEQy4JqHkTgqNhS+1xI+oGoKGuGR9mvC5tL5JgcGN+c96ZR/eRi3Ip2gcbrEmvopbVdU+2aBJf34W+p7VFuHQS4br2HXSeNKs+RIeaXbCawx2uz9Lrgs9OkW5qwlf3lrwIZFShcro6HmjvGy6uUUkomInfMCsdwb6W0keeIF0D5sRxSKWMeU3p9af88sEea70gUnAUVvnE8AdQjdWqGLNlDtmPzVs2QKv</data>
+    <data>AAACMA75z371t4YEdm6w8dQsFTKzGZHHSqfxpK3lAHsCz4bSAJJ+/HYN3dPuiAVK0ljXdhUdp9e8EfSN4C9Ju0mhT1hJ8rk7TjvxA3J4ZVmfj+GtLwPy7s2NMm7plLEo48RByTjSy6KqpkrKZ77Golpn38IrZLOmuq3+r9AiyCVHttDBFElYlm21MvUQpqbxkmE0CT8VAzDKvIki0JjF7FnP2JhyrR+KRmuaQKpM2uqawI1OP6Ucjq8m/PpfZEgnxJ4h7qtd+bclQJHC4O5JLh1LrTKQp62KctsnX5GCfQQgyEgKisFhSgGuV1VYoL2+SPrrwtzxLKU1ecO3erqQNKkzLydOMGpKFgTPNX/A9I3xiPeWcqgiCnw17S0xDIEwPbWfgH5Qtx/FQf2+6iCi/Oc6o04ciDGQlppA8CYCenR7IjuF8OgWLapM3ARKJ27LUeOxWk7pk/hOsBsJvsY8KbjAXbJvqE8QXJIPp1292DvxF48KIVL6lX2JS9LG0w6XTM+d+Rla9ezm7qHwu6pqzRGXWD11vz+6iWaZdoTAQn/S3r041TJEncK+0BiNeO8FqOKG/RiwqfusUKQUitNUjtDMt+pAY7VixcbZmjSqAUi2tDrgSD/y4Eo1hn12mukPd3xrP/XpxLAYhS2zvOP6r77vp5dMdeTOItgSx2sQAvzN6Bdpaw+RfzBNu/4EY9WEyNJl7i7iShIHJ7SCqsnv5wrw0x0DR2uuj202dlU0491GIDW4O0XDWfjoHn3GPV4Sfr3DOg==</data>
   </component>
 </application>
