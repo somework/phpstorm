@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[dlt-bitrix] - ...\ru\search\index.php'" />
-    <option name="defaultScopeName" value="File '[dlt-bitrix] - ...\ru\search\index.php'" />
-    <option name="SEARCH_SCOPE" value="File '[dlt-bitrix] - ...\ru\search\index.php'" />
+    <option name="customScope" value="Directory '[tsum.loc] - ...\lp\fashionshow2016'" />
+    <option name="defaultScopeName" value="Directory '[tsum.loc] - ...\lp\fashionshow2016'" />
+    <option name="SEARCH_SCOPE" value="Directory '[tsum.loc] - ...\lp\fashionshow2016'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
