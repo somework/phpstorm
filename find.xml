@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[tsum.loc] - ...\local\components\tsum\fashionshow.list'" />
-    <option name="defaultScopeName" value="Directory '[tsum.loc] - ...\local\components\tsum\fashionshow.list'" />
-    <option name="SEARCH_SCOPE" value="Directory '[tsum.loc] - ...\local\components\tsum\fashionshow.list'" />
+    <option name="customScope" value="File '[tsum.loc] - ...\local\components\tsum\fashionshow.detail\class.php'" />
+    <option name="defaultScopeName" value="File '[tsum.loc] - ...\local\components\tsum\fashionshow.detail\class.php'" />
+    <option name="SEARCH_SCOPE" value="File '[tsum.loc] - ...\local\components\tsum\fashionshow.detail\class.php'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
