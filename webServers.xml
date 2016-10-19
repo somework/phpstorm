@@ -36,17 +36,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="5bb64ca7-7cce-4c9a-b110-7043964d0c3a" name="izvestia-drupal" url="http://25.49.140.180">
-        <fileTransfer host="25.49.140.180" port="22" rootFolder="/home/pinchuk/www/izvestia/vagrant/drupal" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACMFp2vvra/nrLrw2/MRznBLcNEtWEj5LM0ri64odugInDQhBfTWN+X1wQ3sIchAev3pYyw/tZX/2PZ3jEz73f8sRm2yZ8lk7TFZdguxwcYJbCcFuusgtxd4tY5myI2OR0WI2oTive3YvY6i90G3mZFro5oGnoMxuECtulOfR6/lTJ+lz9ei8zanctj8bNLMFbaDkmPXEKMmoUIcgPSqMX063rl6mM157hxMLTZwCH5lJA6gEHqxB2sifEI/luFdDS1hEytH6fFEtyg5vjwzk7W27nmyY59U/bOPd4ovWDRpccHTqb8xSrTkm03stHob4JfPtiWSAnOudNvsZl+sVjZdVhYwhJnBp6iT/i/+R1mQixoRHZW9rnNYU8MYAbDoU82ok4BQkAVckkRT7est1iPB7y1MA+ZxCqdA3+1SPRhpBYpjz8/u9+B1LVFqOHB6WcfgzH/RPXgE+AQ40Wxj2xmmUOjHFXmkY1msOitBNSyWghMu37ptrjdGbnHEKKZXZnXTtg1HrrjzpZCm2pAxAOuAvfgCXJsl+nllfctG9bepQo9Fk0F1+7qLRlPVht4nskCzrdRhdlS9rUPOUVcZS33p1J+VOpCLv5ucTXJOTkwHvVJzTw/cDGczaXXFsD+czlGb81cYmUYTF8xiCxctmj9ALuGp2gn2wsfy1j1tk9N9NLAdz7I2/tWfQBthJk1roVUCuFpHFYZgYS8J/2Gw76R39/nv2g9eWMg1LGVwVxql0ktcEhodU/XRrrLWQ+KC1uMQ==</data>
+    <data>AAABwDK/EdYtpxupzWCMYDhGS9OJvkQUxIG06oEr5ki0NfypMjxVhz5hpJBigSnM54w8jIPLsn+9eGNW5j+1Dwd3Xwgf5XL183oxCcc22W5OS/MCLiZOUO4bpvsJWT5GqepnCuWEXY1tdDirTV4aEtqg8+vokHD32sIVIiPkldTFXOkLQPvS8YqSfbx/CIA2tv8XSUH8SFmQLx/P42jKQ+C0KZ29tRRdVerqCUapc6mjFnlGzXoRAhJMqgd1Srb2LIs4rpEEmWRQ3U6ezjyn9Pb60vnXufR81rjUW4F/uEF3PdxzBARMWhczfi6laouNY71GOzh6Z/ZtcUYoYrRkZI+Je17Nwuh5OqWTV8CFpre2tL2M/KDEcPMNRFCfYLdYXmYCzpvZEUcPwV1Dd2kajKr3zya7vu3M7mt2Q3Bk/8wxFs9RU3ha3bqwXlwEHfn9lHD83Nbj2sFnLnGQo/gceNsZQPu+j7/RMEvF4mZ3gnL1qqDdnQUFHOufqjCA7M5039gpmlc+mvJuuHHVXQ6a52jEiltVucarILuYOlM7P+OfrQLBpdWuLBxIrmRnOMP3I3xYIhdAbwPDPEWGruOot7ZDV4uLbalODBq/n7iIpjj1ltwo</data>
   </component>
 </application>
