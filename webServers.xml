@@ -36,9 +36,17 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d434fb9a-db59-47e8-8eaa-f615f77e9f8f" name="rads" url="http://p3.rads.vz2/">
+        <fileTransfer host="172.27.1.172" port="22" rootFolder="/var/www/rads/p3/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABwNz14pGKnrfeDO7pLVIRvir9tXIiYjhin6jC3q7bADgcxxr0195kD0oCjWYuheJdsFDT3M6KOOdYlo6hpcFMBeAK0SZInTxQ418mVA5GCSwjxuj+9B6nN3v+f0Bx5cempEu3o1ftvTkwn/b+xBQn/fzlp3kBB7GjfgHqs7sxviEGSVYOuFmv1+qsO9t1zyxyo9fSbErNYYMF3QgT7t9c1hzLLkslSDLNb1DMUMD7LWRdwXUKLQo2DdJ7BoeoaXo0EKI4nXNhIKNw6xaAQvrBlLNkDQPQAUX2FIgpM1Fhm0JaFYBZwvWOwmsisY2bbfaHuGgucpahWWQYdLd2oAWjr+F/MRIA22fWK6IZ1sQfNMEWzR4iRX+ZDoIhcawg6WVq6EXp9yy+bYGYk9swWJxGNUFH2F+/lid+AtVX42yHqAhEeUEUa3EK98meGmW91Yp2dhxPIkNTn2KEFmGzdsHo4SC3egalNPskEIS305k1RLcUGbEWU2ireXffOBI3AfJtYI+k0h0TVDajxxRdUQVPUfauE1i8iLueUb3I02JKn2lpCVCQSE6xry2Cu3JupHChDlapoPGR+OabU6cwxqf73OC4LRnd9gZKO+1A0mZRVFqI</data>
+    <data>AAACMLupZ1yipOBOHOrbUHDKDgdGctUbQNwXGs8n2/wvjl5/k0pUc2cwg8OmnHl9BpAFmH0kdE8/C+aZJNQ4v41L7gMOoUW+lGyMj0x5/QKL1hJIt8OdAovf7KIDLSdbc/LxfYyJYU0dRCAwYnWMDOD75aD0U/+r3cCxWegGifqkY1JvyDPlgorautX2+2WfyHe9YVV/fvUaQdqgXDJfivABuvofX6VmqIA36EI4G55/uM7Axdqtr20+bRspHiWkEydPgIU1MV/QTkfze+ElUDZt8o8OZ0V/uIM18UT+/rnf0XEmH6101c0uG5UtWIq7JPDXzQe/ck14nzRvGQX4iCzA7gd+KTInowb8Rfgy+wgcDHBPgXimHEoLn7d29YZ9VXcZ9Ekj9jBItQFeVntY3CKQzPFmWP+JTDp6SZNZyV21xG10zu2x3M2FoWrMoxiILwAeHo08eVVY6+FKKfZVh+C9/3SxQ1BWx2tLKxMx6gsPP7R1qLaJcAJ9qwrFuwUUvXUC/XzmobvnHEcokMKaE4dNM0jDDhupwbP4SKbCxojnZz880r5eCjinO4EyHoZluA5bQWP7zwlvEGWOvO0zQ2xG1jkHz/98TlF7usZOx4PfE8w5cHoelc47zqu5pUNebq2lxpA9vkVs+vgM6kpaiYqUUpC4xDvYXxgcDIINJadX7Ry5EY4e6l5hQhKLVhsymnk9ap0tl9oRUTtxqjMk4gJPUteH2kgWjoZfT2t8LAJVFpDM4pIkNJCDAFPuZXcsIlnV8g==</data>
   </component>
 </application>
