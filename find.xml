@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[rads] - ...\news\index.php'" />
-    <option name="defaultScopeName" value="File '[rads] - ...\news\index.php'" />
-    <option name="SEARCH_SCOPE" value="File '[rads] - ...\news\index.php'" />
+    <option name="customScope" value="File '[rads] - ...\local\templates\main\components\bitrix\news\main\bitrix\news.list\.default\template.php'" />
+    <option name="defaultScopeName" value="File '[rads] - ...\local\templates\main\components\bitrix\news\main\bitrix\news.list\.default\template.php'" />
+    <option name="SEARCH_SCOPE" value="File '[rads] - ...\local\templates\main\components\bitrix\news\main\bitrix\news.list\.default\template.php'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
