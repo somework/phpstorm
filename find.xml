@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[krk-bitrix] - ...\local\templates\main\.description.php'" />
-    <option name="defaultScopeName" value="File '[krk-bitrix] - ...\local\templates\main\.description.php'" />
-    <option name="SEARCH_SCOPE" value="File '[krk-bitrix] - ...\local\templates\main\.description.php'" />
+    <option name="customScope" value="File '[krk-bitrix] - ...\local\templates\main\components\bitrix\catalog\.default\bitrix\catalog.section\.default\template.php'" />
+    <option name="defaultScopeName" value="File '[krk-bitrix] - ...\local\templates\main\components\bitrix\catalog\.default\bitrix\catalog.section\.default\template.php'" />
+    <option name="SEARCH_SCOPE" value="File '[krk-bitrix] - ...\local\templates\main\components\bitrix\catalog\.default\bitrix\catalog.section\.default\template.php'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
