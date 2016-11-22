@@ -34,6 +34,10 @@
           <option name="url" value="https://pinchuk%40adv.ru@scm.adv.ru/scm/krk/bitrix.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://v.qsoft.ru:5557/development/interrao.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Igor\PhpstormProjects\" />
