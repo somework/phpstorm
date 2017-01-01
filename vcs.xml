@@ -54,6 +54,10 @@
           <option name="url" value="https://pinchuk%40adv.ru@scm.adv.ru/scm/sgz/corp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.atbdev.ru:sogaz/direct-sogaz-ru.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Igor\PhpstormProjects\" />
