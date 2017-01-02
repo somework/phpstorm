@@ -3,7 +3,7 @@
     <option name="customScope" value="Directory '[corp] - ...\local\modules\sogaz\lib\eosago'" />
     <option name="defaultScopeName" value="Directory '[corp] - ...\local\modules\sogaz\lib\eosago'" />
     <option name="SEARCH_SCOPE" value="Directory '[corp] - ...\local\modules\sogaz\lib\eosago'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,9 +13,9 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>js</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
