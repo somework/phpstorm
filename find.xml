@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[corp] - ...\local\modules\sogaz\lib\eosago'" />
-    <option name="defaultScopeName" value="Directory '[corp] - ...\local\modules\sogaz\lib\eosago'" />
-    <option name="SEARCH_SCOPE" value="Directory '[corp] - ...\local\modules\sogaz\lib\eosago'" />
+    <option name="customScope" value="Directory '[shop.mts.ru] - ...\bitrix\components'" />
+    <option name="defaultScopeName" value="Directory '[shop.mts.ru] - ...\bitrix\components'" />
+    <option name="SEARCH_SCOPE" value="Directory '[shop.mts.ru] - ...\bitrix\components'" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
