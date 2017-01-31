@@ -3,7 +3,7 @@
     <interpreters>
       <interpreter home="C:\Tools\php55\php.exe" id="7a14ad13-0c51-46d6-b3d4-3a32baed552c" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
       <interpreter home="ssh://vagrant@127.0.0.1:2222/usr/local/bin/php" id="8659869f-9954-48da-b41c-67b31bba8e04" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="ssh://pinchuk@25.49.140.180:22/usr/bin/php" id="cf3c2b65-47b9-4d4e-a1db-e3832c6a11e6" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
         <remote_data HOST="25.49.140.180" PORT="22" ANONYMOUS="false" USERNAME="pinchuk" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/pinchuk/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
@@ -790,6 +790,7 @@
             <configuration_option name="auto_prepend_file" value="" />
             <configuration_option name="bcmath.scale" value="0" />
             <configuration_option name="browscap" value="" />
+            <configuration_option name="curl.cainfo" value="C:\Users\Igor\PhpstormProjects\ca-bundle.crt" />
             <configuration_option name="date.default_latitude" value="31.7667" />
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
@@ -960,6 +961,7 @@
             <extension name="bcmath" />
             <extension name="calendar" />
             <extension name="ctype" />
+            <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
             <extension name="ereg" />
