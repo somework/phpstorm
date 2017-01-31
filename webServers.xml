@@ -36,6 +36,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="e506c13f-61a5-4e76-bd22-e47a6f6351e1" name="symfony" url="http://symfony.loc">
+        <fileTransfer host="141.8.193.89" port="22" rootFolder="/var/www/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
