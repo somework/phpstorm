@@ -44,6 +44,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="8cb74e68-91f8-4f1a-b909-cbdad92179a2" name="lubimchik" url="http://lubimchik.vag">
+        <fileTransfer host="25.49.140.180" port="22" rootFolder="/home/pinchuk/www/lubimchik.ru/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
