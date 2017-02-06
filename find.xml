@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[lubimchik] - ...\local\php_interface\lib\Bitrix\User'" />
-    <option name="defaultScopeName" value="Directory '[lubimchik] - ...\local\php_interface\lib\Bitrix\User'" />
-    <option name="SEARCH_SCOPE" value="Directory '[lubimchik] - ...\local\php_interface\lib\Bitrix\User'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
