@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[direct-sogaz-ru] - ...\local\modules\sogaz\lib\eosago'" />
-    <option name="defaultScopeName" value="Directory '[direct-sogaz-ru] - ...\local\modules\sogaz\lib\eosago'" />
-    <option name="SEARCH_SCOPE" value="Directory '[direct-sogaz-ru] - ...\local\modules\sogaz\lib\eosago'" />
+    <option name="customScope" value="Directory '[direct-sogaz-ru] - ...\local\modules\sogaz\lib'" />
+    <option name="defaultScopeName" value="Directory '[direct-sogaz-ru] - ...\local\modules\sogaz\lib'" />
+    <option name="SEARCH_SCOPE" value="Directory '[direct-sogaz-ru] - ...\local\modules\sogaz\lib'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
