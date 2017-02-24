@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[lubimchik] - ...\local\php_interface\lib\Bitrix\Profile'" />
-    <option name="defaultScopeName" value="Directory '[lubimchik] - ...\local\php_interface\lib\Bitrix\Profile'" />
-    <option name="SEARCH_SCOPE" value="Directory '[lubimchik] - ...\local\php_interface\lib\Bitrix\Profile'" />
+    <option name="customScope" value="ajax.php" />
+    <option name="defaultScopeName" value="ajax.php" />
+    <option name="SEARCH_SCOPE" value="ajax.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
