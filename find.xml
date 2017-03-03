@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ajax.php" />
-    <option name="defaultScopeName" value="ajax.php" />
-    <option name="SEARCH_SCOPE" value="ajax.php" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
