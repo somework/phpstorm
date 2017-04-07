@@ -66,8 +66,12 @@
           <option name="url" value="ssh://git@scm.adv.ru:7999/dlt/dlt-backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@scm.adv.ru:/ptstr/stub-landing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Igor\PhpstormProjects\dlt" />
+    <option name="cloneParentDir" value="C:\Users\Igor\PhpstormProjects\mars\petstory.ru" />
   </component>
 </application>
