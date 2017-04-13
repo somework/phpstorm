@@ -52,6 +52,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1836e06a-df70-40e6-baea-a4bcb671c00d" name="landing" url="http://lubimchik.vag">
+        <fileTransfer host="25.49.140.180" port="22" rootFolder="/home/pinchuk/www/mars/landing/landing" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
