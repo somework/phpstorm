@@ -1,6 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://schema.phpunit.de/4.8/phpunit.xsd" location="$USER_HOME$/.PhpStorm2016.2/system/extResources/e374a285_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/4.8/phpunit.xsd" location="$USER_HOME$/.PhpStorm2017.1/system/extResources/e374a285_phpunit.xsd" />
     <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/42abd8c6_.xml" />
     <resource url="http://schemas.xmlsoap.org/wsdl/soap/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/9f6330fe_.xml" />
   </component>
