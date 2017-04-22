@@ -74,8 +74,12 @@
           <option name="url" value="git@gitlab.atbdev.ru:sogaz/sogaz_lk-sogaz-ru.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@scm.adv.ru:7999/ptstr/landing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Igor\PhpstormProjects\sogaz" />
+    <option name="cloneParentDir" value="C:\Users\Igor\PhpstormProjects\petstory\" />
   </component>
 </application>
