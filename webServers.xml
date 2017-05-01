@@ -60,6 +60,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="0474107b-b577-4a31-b5b3-cdec2705c387" name="bitrix.loc" url="http://bitrix.loc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
