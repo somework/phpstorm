@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="55d64c90-c290-4157-8609-0734cb600630" name="bitrix.loc" url="http://bitrix.loc">
-        <fileTransfer host="192.168.2.102" port="22" rootFolder="/home/bitrix/www" accessType="SFTP">
+        <fileTransfer host="192.168.2.107" port="22" rootFolder="/home/bitrix/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -60,7 +60,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="0474107b-b577-4a31-b5b3-cdec2705c387" name="bitrix.loc" url="http://bitrix.loc">
+      <webServer id="0474107b-b577-4a31-b5b3-cdec2705c387" name="bitrix.loc (1)" url="http://bitrix.loc">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
