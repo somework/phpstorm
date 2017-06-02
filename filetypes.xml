@@ -1,24 +1,25 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="snp" type="HTML" />
       <mapping ext="dbg" type="HTML" />
-      <mapping ext="test" type="PHP" />
+      <mapping ext="snp" type="HTML" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="install" type="PHP" />
-      <mapping ext="profile" type="PHP" />
-      <mapping ext="theme" type="PHP" />
       <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="public" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="public" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="hbt" type="PLAIN_TEXT" />
-      <mapping ext="xlf" type="XML" />
       <mapping ext="xliff" type="XML" />
+      <mapping ext="xlf" type="XML" />
       <mapping ext="loc" type="nginx file type" />
     </extensionMap>
   </component>
