@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[offset-page-logic] - ...\tests'" />
-    <option name="defaultScopeName" value="Directory '[offset-page-logic] - ...\tests'" />
+    <option name="customScope" value="Directory '[bitrix-offset] - ...\tests'" />
+    <option name="defaultScopeName" value="Directory '[bitrix-offset] - ...\tests'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[offset-page-logic] - ...\tests'" />
+    <option name="SEARCH_SCOPE" value="Directory '[bitrix-offset] - ...\tests'" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
