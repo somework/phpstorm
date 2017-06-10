@@ -15,8 +15,8 @@
         <remote_data VAGRANT_FOLDER="C:\Users\Igor\PhpstormProjects\lubimchik" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="C:\Tools\php7\php.exe" id="65ade52b-8e2b-4260-a908-d810eac7739b" name="PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="ssh://bitrix@192.168.2.107:22/bin/php" id="7ff556f8-1c58-440a-a0a2-a4b303d650d9" name="bitrix.loc php" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.2.107" PORT="22" USERNAME="bitrix" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/bin/php" HELPERS_PATH="/home/bitrix/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="docker://reg.adv.ru/misc/bx-php-fpm:7-petstory//bin/php" id="7ff556f8-1c58-440a-a0a2-a4b303d650d9" name="bitrix.loc php" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="reg.adv.ru/misc/bx-php-fpm:7-petstory" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/bin/php" HELPERS_PATH="/home/bitrix/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="C:\Tools\php56\php.exe" id="171553e3-f519-409f-a450-2648fb7497da" name="PHP" debugger_id="php.debugger.XDebug">
         <configuration_options>
