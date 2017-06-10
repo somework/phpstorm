@@ -34,8 +34,60 @@
           <option name="url" value="https://pinchuk%40adv.ru@scm.adv.ru/scm/krk/bitrix.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://v.qsoft.ru:5557/development/interrao.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://pinchuk%40adv.ru@scm.adv.ru/scm/vsk/osago.vsk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://pinchuk%40adv.ru@scm.adv.ru/scm/vsk/personal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://pinchuk%40adv.ru@scm.adv.ru/scm/vsk/vsk.common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://pinchuk%40adv.ru@scm.adv.ru/scm/sgz/corp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.atbdev.ru:sogaz/direct-sogaz-ru.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@scm.adv.ru:7999/lub/lubimchik.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@scm.adv.ru:7999/dlt/dlt-backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@scm.adv.ru:/ptstr/stub-landing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.atbdev.ru:sogaz/sogaz_lk-sogaz-ru.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@scm.adv.ru:7999/ptstr/landing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@scm.adv.ru:7999/ptstr/bitrix.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/somework/bitrix-offset" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Igor\PhpstormProjects\" />
+    <option name="cloneParentDir" value="E:\Personal" />
   </component>
 </application>
